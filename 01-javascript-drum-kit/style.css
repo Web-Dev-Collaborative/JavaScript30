@@ -49,3 +49,15 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+a {
+  color: #ffc600;
+  background: rgba(0,0,0,0.4);
+  padding: 1rem 2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+}
