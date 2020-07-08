@@ -8,6 +8,8 @@ I will trying to complete each day's challenge before watching the tutorial, the
 
 This repo was forked from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30).
 
+Commit tweet: https://twitter.com/jackdomleo7/status/1280791338921984001
+
 You can see my progress below.
 
 ---
