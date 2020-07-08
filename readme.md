@@ -6,6 +6,8 @@ I've decided to brush up on some JavaScript while also learning new JS capabilit
 
 I will trying to complete each day's challenge before watching the tutorial, then comparing my solution to Wes's solution.
 
+This repo was forked from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30).
+
 You can see my progress below.
 
 ---
@@ -18,5 +20,5 @@ Fairly cool, simple program. I learned about the [`transitionend`](https://devel
 
 My method was different the Wes's, because Wes used `function playSound() { }`, where I instead used `const playSound = () => { }`. My initial method used `setTimeout`, but Wes's demo on the `transitionend` event was so useful.
 
-**Link**: 
+**Link**: https://jackdomleo7.github.io/JavaScript30/01-javascript-drum-kit
 **Code**: https://github.com/jackdomleo7/JavaScript30/tree/master/01-javascript-drum-kit
